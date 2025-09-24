@@ -1,0 +1,244 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "date": "Day 1",
+      "question": "If the universe started from nothing, what was there before nothing?",
+      "story": "In 1964, Arno Penzias heard static on a radio telescope. That static was the echo of the Big Bang - the universe literally speaking to us across 14 billion years. But it raised a terrifying question: what came before?",
+      "thinker": "Georges Lemaître, Catholic priest who proposed Big Bang",
+      "followUp": "Is 'before' even a valid concept without time?"
+    },
+    {
+      "id": 2,
+      "date": "Day 2",
+      "question": "Why do you trust that tomorrow will have the same laws of physics as today?",
+      "story": "David Hume couldn't sleep. He realized we have no logical reason to believe the sun will rise tomorrow - just because it always has. This destroyed the foundation of science for 50 years.",
+      "thinker": "David Hume, who broke causation",
+      "followUp": "What if physics changes, but our memories change too?"
+    },
+    {
+      "id": 3,
+      "date": "Day 3",
+      "question": "If you replaced your neurons one by one with silicon chips, at what point would you stop being you?",
+      "story": "Theseus's ship was preserved by Athenians. As planks decayed, they replaced them. Eventually, every plank was new. Was it still Theseus's ship? You replace all your cells every 7 years. Are you still you?",
+      "thinker": "Plutarch, ancient biographer",
+      "followUp": "What exactly is the 'you' that persists?"
+    },
+    {
+      "id": 4,
+      "date": "Day 4",
+      "question": "How do you know you're not the only conscious being in existence?",
+      "story": "Descartes locked himself in a room with an oven. In the warmth, he doubted everything - except that he was doubting. But he could never prove anyone else was conscious. Neither can you.",
+      "thinker": "René Descartes, radical doubter",
+      "followUp": "Would it matter if you were alone?"
+    },
+    {
+      "id": 5,
+      "date": "Day 5",
+      "question": "If we discovered the equation that predicts every human decision, would free will cease to exist?",
+      "story": "Laplace imagined a demon who knew every atom's position. It could predict everything - including your next thought. Einstein believed this. Heisenberg destroyed it. But what if Einstein was right?",
+      "thinker": "Pierre-Simon Laplace, determinist",
+      "followUp": "Can you choose differently knowing you're predicted to choose?"
+    },
+    {
+      "id": 6,
+      "date": "Day 6",
+      "question": "Why does mathematics - a human invention - perfectly describe nature?",
+      "story": "Eugene Wigner called it 'unreasonable.' Why do imaginary numbers describe real electricity? Why does geometry from ancient Greece predict black holes? Is math discovered or invented?",
+      "thinker": "Eugene Wigner, Nobel physicist",
+      "followUp": "Did we invent math, or did math invent us?"
+    },
+    {
+      "id": 7,
+      "date": "Day 7",
+      "question": "If you could experience someone else's consciousness for one minute, would you still be you when you returned?",
+      "story": "Thomas Nagel asked 'What is it like to be a bat?' We can never know. Your 'red' might be my 'blue.' We're trapped in our own consciousness. But what if we weren't?",
+      "thinker": "Thomas Nagel, philosopher of mind",
+      "followUp": "How do you know you returned to the right consciousness?"
+    },
+    {
+      "id": 8,
+      "date": "Day 8",
+      "question": "Why does the universe exist in a form that allows us to ask why it exists?",
+      "story": "The Anthropic Principle haunts physics. Change any constant by 0.0001% and atoms don't form. No stars. No life. No questions. Are we impossibly lucky, or is this backwards?",
+      "thinker": "Brandon Carter, cosmologist",
+      "followUp": "Do questions create the universe that allows them?"
+    },
+    {
+      "id": 9,
+      "date": "Day 9",
+      "question": "If every atom in your body came from stars, are you the universe experiencing itself?",
+      "story": "Carl Sagan realized we are 'star stuff contemplating star stuff.' Your carbon came from stellar furnaces. Your consciousness from cosmic evolution. You're not in the universe - you ARE the universe.",
+      "thinker": "Carl Sagan, cosmic philosopher",
+      "followUp": "Is consciousness what the universe does, or what it is?"
+    },
+    {
+      "id": 10,
+      "date": "Day 10",
+      "question": "Can something be true if no conscious being will ever know it?",
+      "story": "A tree falls in an empty universe. Not just no one around - no conscious beings exist anywhere, ever. Did it make a sound? Does it even make sense to say it 'fell'?",
+      "thinker": "George Berkeley, idealist bishop",
+      "followUp": "Does truth require a witness?"
+    },
+    {
+      "id": 11,
+      "date": "Day 11",
+      "question": "If time is relative, is there a 'now' that exists across the universe?",
+      "story": "Einstein destroyed simultaneous time. Your 'now' includes alien civilizations' past and future. There's no universal present moment. So when you say 'now,' what do you mean?",
+      "thinker": "Albert Einstein, time destroyer",
+      "followUp": "Are all moments equally real?"
+    },
+    {
+      "id": 12,
+      "date": "Day 12",
+      "question": "Why do we find nature beautiful when beauty serves no evolutionary purpose?",
+      "story": "Darwin was troubled. His theory explained everything except why we're moved by sunsets. Beauty doesn't help survival. Yet a canyon's majesty can make you weep. Why?",
+      "thinker": "Charles Darwin, troubled by beauty",
+      "followUp": "Is beauty a cosmic accident or cosmic intention?"
+    },
+    {
+      "id": 13,
+      "date": "Day 13",
+      "question": "If you could press a button to eliminate all suffering, but also all joy, would you?",
+      "story": "Buddha saw that life is suffering. Schopenhauer agreed. But Nietzsche said suffering creates meaning. Without valleys, no mountains. Without pain, no growth. What's the point of comfort?",
+      "thinker": "Arthur Schopenhauer, pessimist sage",
+      "followUp": "Is suffering a bug or a feature?"
+    },
+    {
+      "id": 14,
+      "date": "Day 14",
+      "question": "How can you be certain you're awake right now and not dreaming?",
+      "story": "Zhuangzi dreamed he was a butterfly. When he woke, he wondered: was he a man who dreamed of being a butterfly, or a butterfly dreaming of being a man? You've never been sure you're dreaming while dreaming.",
+      "thinker": "Zhuangzi, Daoist master",
+      "followUp": "What if waking up is just another layer of dream?"
+    },
+    {
+      "id": 15,
+      "date": "Day 15",
+      "question": "If atoms are 99.99% empty space, why can't you walk through walls?",
+      "story": "Rutherford shot particles at gold foil. Most passed through - atoms are empty. You're mostly nothing. The wall is mostly nothing. Yet electromagnetic forces create the illusion of 'solid.' What is touching?",
+      "thinker": "Ernest Rutherford, atom explorer",
+      "followUp": "If nothing truly touches, are you ever really anywhere?"
+    },
+    {
+      "id": 16,
+      "date": "Day 16",
+      "question": "Why do you believe your memories are real and not implanted five minutes ago?",
+      "story": "Bertrand Russell realized the universe could have been created 5 minutes ago with all memories intact. Every archaeological artifact, every memory - all created together. You can't disprove it.",
+      "thinker": "Bertrand Russell, radical skeptic",
+      "followUp": "Would it matter if your past never happened?"
+    },
+    {
+      "id": 17,
+      "date": "Day 17",
+      "question": "If evolution optimizes for survival, why did it create beings who contemplate their own death?",
+      "story": "Terror Management Theory: humans are the only animals who know they'll die. This knowledge terrorizes us, drives culture, religion, art. Evolution created mortality awareness. Why?",
+      "thinker": "Ernest Becker, death theorist",
+      "followUp": "Is consciousness evolution's mistake or masterpiece?"
+    },
+    {
+      "id": 18,
+      "date": "Day 18",
+      "question": "Can you imagine a color that doesn't exist?",
+      "story": "Mantis shrimp see 16 types of color receptors. You have 3. They see colors you can't imagine. But 'imagine' means forming a mental image. Can you imagine the unimaginable?",
+      "thinker": "Thomas Nagel, limits of imagination",
+      "followUp": "How many impossibilities are you blind to?"
+    },
+    {
+      "id": 19,
+      "date": "Day 19",
+      "question": "If everyone on Earth blinked at once, would darkness exist for that moment?",
+      "story": "Schrödinger's cat is alive and dead until observed. Quantum physics suggests observation creates reality. If no one observes light, does it exist? Are you creating reality by looking?",
+      "thinker": "Erwin Schrödinger, quantum mystic",
+      "followUp": "Does the universe exist between your blinks?"
+    },
+    {
+      "id": 20,
+      "date": "Day 20",
+      "question": "Why does 'nothing' terrify us more than 'something terrible'?",
+      "story": "Sartre faced 'the nothing' and felt nausea. We fear death not because it's painful but because it's nothing. We'd rather eternal torture than non-existence. Why does nothing frighten?",
+      "thinker": "Jean-Paul Sartre, nothingness explorer",
+      "followUp": "Can nothing be something to fear?"
+    },
+    {
+      "id": 21,
+      "date": "Day 21",
+      "question": "If you could know exactly when you'll die, would you want to?",
+      "story": "The Oracle at Delphi gave prophecies that always came true - because people made them true. Oedipus fled his fate and ran straight into it. Does knowing the future create it?",
+      "thinker": "Ancient Greek Oracle, fate speaker",
+      "followUp": "Would knowing when change how?"
+    },
+    {
+      "id": 22,
+      "date": "Day 22",
+      "question": "How do you know the laws of logic are true if you need logic to prove them?",
+      "story": "Gödel destroyed mathematics in 1931. He proved you can't prove mathematics is consistent using mathematics. Every system of logic assumes its own truth. Circular forever.",
+      "thinker": "Kurt Gödel, logic destroyer",
+      "followUp": "Is reason ultimately unreasonable?"
+    },
+    {
+      "id": 23,
+      "date": "Day 23",
+      "question": "If humans vanished tomorrow, would the universe notice?",
+      "story": "Earth existed 4.5 billion years without us. The universe, 14 billion. We've been here 0.004% of cosmic time. Yet we think we're the point. What if we're a footnote?",
+      "thinker": "Carl Sagan, cosmic perspective",
+      "followUp": "Does significance require someone to assign it?"
+    },
+    {
+      "id": 24,
+      "date": "Day 24",
+      "question": "Why can you imagine impossible things but not experience them?",
+      "story": "You can imagine a square circle, backwards time, being in two places. Your mind breaks physics constantly. But experience obeys strict rules. Why is imagination freer than reality?",
+      "thinker": "David Hume, imagination explorer",
+      "followUp": "Is imagination more real than experience?"
+    },
+    {
+      "id": 25,
+      "date": "Day 25",
+      "question": "If every choice creates parallel universes, are you responsible for what your other selves do?",
+      "story": "Hugh Everett III proposed every quantum event splits reality. Every choice you didn't make, another you did. Infinite versions of you exist. Are they you? Are you them?",
+      "thinker": "Hugh Everett III, multiverse father",
+      "followUp": "Is there a 'real' you among infinite yous?"
+    },
+    {
+      "id": 26,
+      "date": "Day 26",
+      "question": "Can you want to want something you don't want?",
+      "story": "Harry Frankfurt explored higher-order desires. You want to want to exercise, but you don't want to exercise. Which want is the 'real' you? Can you choose your wants?",
+      "thinker": "Harry Frankfurt, will philosopher",
+      "followUp": "Who's choosing if not your wants?"
+    },
+    {
+      "id": 27,
+      "date": "Day 27",
+      "question": "If consciousness is just electrical patterns, could a thunderstorm be thinking?",
+      "story": "Your brain is 86 billion neurons firing electrically. A thunderstorm has electrical patterns of similar complexity. We assume it's not conscious. But how would we know?",
+      "thinker": "Giulio Tononi, consciousness theorist",
+      "followUp": "What else might be thinking that we ignore?"
+    },
+    {
+      "id": 28,
+      "date": "Day 28",
+      "question": "Why did the universe wait 14 billion years to experience itself through you?",
+      "story": "You are the universe's first chance to know itself in this exact way. Your specific consciousness has never existed before and never will again. Why now? Why you?",
+      "thinker": "Alan Watts, cosmic philosopher",
+      "followUp": "Are you the universe's question or answer?"
+    },
+    {
+      "id": 29,
+      "date": "Day 29",
+      "question": "If meaning requires an ending, does immortality make life meaningless?",
+      "story": "Borges imagined immortals who became utterly bored. Without death, nothing matters - infinite time to do everything makes everything equal to nothing. Does death give life meaning?",
+      "thinker": "Jorge Luis Borges, infinity writer",
+      "followUp": "Would you trade meaning for forever?"
+    },
+    {
+      "id": 30,
+      "date": "Day 30",
+      "question": "What question would change everything if you knew the answer?",
+      "story": "Socrates claimed wisdom was knowing what you don't know. Every answer creates new questions. But perhaps there's one question whose answer would end all questions. What would you ask?",
+      "thinker": "Socrates, question master",
+      "followUp": "Would you want to know, or keep wondering?"
+    }
+  ]
+}

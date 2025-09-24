@@ -1,0 +1,211 @@
+{
+  "journeys": [
+    {
+      "id": "time",
+      "title": "What is Time?",
+      "description": "A journey from everyday experience to the edge of physics and consciousness",
+      "icon": "⏳",
+      "color": "#4A90E2",
+      "theme": "time",
+      "levels": [
+        {
+          "depth": 1,
+          "title": "The Surface Paradox",
+          "unlocked": true,
+          "questions": [
+            {
+              "main": "Why does time only move forward?",
+              "context": "You can walk backwards in space, but not in time. Why this fundamental asymmetry?",
+              "followUp": "Is the arrow of time a law of physics or just how we experience it?"
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "title": "The Classical Understanding",
+          "unlocked": false,
+          "questions": [
+            {
+              "main": "Is time absolute or relative?",
+              "context": "Newton believed in universal time ticking everywhere. Einstein destroyed this idea. Your head ages faster than your feet.",
+              "followUp": "If time is relative, is there a 'now' that exists across the universe?"
+            },
+            {
+              "main": "What exactly is 'now'?",
+              "context": "The present moment seems special, but physics can't find it. The equations work equally well backwards.",
+              "followUp": "How long does 'now' last? A second? A nanosecond? An instant?"
+            }
+          ]
+        },
+        {
+          "depth": 3,
+          "title": "The Philosophical Depths",
+          "unlocked": false,
+          "questions": [
+            {
+              "main": "Does time exist without change?",
+              "context": "Imagine a universe where nothing moves, nothing changes. Would time still pass? Or does time require events?",
+              "followUp": "Are you measuring time, or are you measuring change and calling it time?"
+            },
+            {
+              "main": "Is the past still real?",
+              "context": "Einstein's block universe suggests all moments exist eternally. Your childhood is still happening 'somewhere' in spacetime.",
+              "followUp": "If all moments exist equally, why do we only experience this one?"
+            }
+          ]
+        },
+        {
+          "depth": 4,
+          "title": "The Augustine-Kant Layer",
+          "unlocked": false,
+          "questions": [
+            {
+              "main": "Can you think about time without using time?",
+              "context": "Augustine realized that to think about the past requires present memory, to think about future requires present expectation. All time exists only in the present mind.",
+              "followUp": "Is time a feature of consciousness rather than reality?"
+            },
+            {
+              "main": "Is time in the world or in your mind?",
+              "context": "Kant argued time is a necessary form of perception - not a thing in itself but how minds must experience reality. Without minds, no time.",
+              "followUp": "Could an alien consciousness experience reality without temporal sequence?"
+            }
+          ]
+        },
+        {
+          "depth": 5,
+          "title": "The Quantum Mystery",
+          "unlocked": false,
+          "questions": [
+            {
+              "main": "Does observation create the flow of time?",
+              "context": "In quantum mechanics, observation collapses possibilities into actualities. Does consciousness create the 'now' by observing?",
+              "followUp": "Is time emerging from quantum decoherence?"
+            },
+            {
+              "main": "Can time go backwards at quantum scales?",
+              "context": "Quantum equations are time-symmetric. Particles seem to 'know' about future measurements. Retrocausation might be real.",
+              "followUp": "If microscopic time is reversible, why is macroscopic time not?"
+            }
+          ]
+        },
+        {
+          "depth": 6,
+          "title": "The Ultimate Questions",
+          "unlocked": false,
+          "questions": [
+            {
+              "main": "Did time have a beginning?",
+              "context": "If time started at the Big Bang, what does 'before' even mean? Can something cause time to begin if causation requires time?",
+              "followUp": "Is asking 'what came before time' like asking 'what's north of the North Pole'?"
+            },
+            {
+              "main": "Is time fundamental or emergent?",
+              "context": "Some physicists think time emerges from more basic timeless processes - like temperature emerges from molecular motion. Time might not be real at the deepest level.",
+              "followUp": "What would a timeless reality 'beneath' time look like?"
+            },
+            {
+              "main": "Why do you experience 'now' as special?",
+              "context": "Physics says all moments are equal, yet you're trapped in this one. Why this moment? Why you? Why now?",
+              "followUp": "Is your entire life happening in one eternal moment that you're experiencing sequentially?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "god",
+      "title": "Does God Exist?",
+      "description": "A journey from childhood certainty through doubt to the edge of the knowable",
+      "icon": "✨",
+      "color": "#9C27B0",
+      "theme": "god",
+      "levels": [
+        {
+          "depth": 1,
+          "title": "The Innocent Question",
+          "unlocked": true,
+          "questions": [
+            {
+              "main": "Who created everything?",
+              "context": "Every child asks this. Everything seems to need a cause. Your parents made you, but who made the first parents?",
+              "followUp": "If God created everything, who created God?"
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "title": "The Classical Arguments",
+          "unlocked": false,
+          "questions": [
+            {
+              "main": "Can something come from nothing?",
+              "context": "Aquinas argued that existence itself needs explanation. Why is there something rather than nothing at all?",
+              "followUp": "Is 'nothing' even possible, or is 'something' necessary?"
+            },
+            {
+              "main": "Does the universe's design imply a designer?",
+              "context": "The constants of physics are fine-tuned for life to 120 decimal places. Change gravity by 0.0000...1% and no atoms form.",
+              "followUp": "Is fine-tuning evidence of God, or are we in one of infinite universes?"
+            }
+          ]
+        },
+        {
+          "depth": 3,
+          "title": "The Problem of Evidence",
+          "unlocked": false,
+          "questions": [
+            {
+              "main": "Why doesn't God provide proof?",
+              "context": "An omnipotent God could easily prove existence - write in the stars, appear to everyone simultaneously. Why the hiddenness?",
+              "followUp": "Would proof of God eliminate free will to believe?"
+            },
+            {
+              "main": "Can absence of evidence be evidence of absence?",
+              "context": "Bertrand Russell's teapot: You can't disprove a teapot orbiting Mars. Does that make it reasonable to believe?",
+              "followUp": "Is God more like a teapot or like consciousness - unprovable but undeniable?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "consciousness",
+      "title": "What is Consciousness?",
+      "description": "A journey from the obvious to the impossible",
+      "icon": "🧠",
+      "color": "#FF5722",
+      "theme": "consciousness",
+      "levels": [
+        {
+          "depth": 1,
+          "title": "The Undeniable Mystery",
+          "unlocked": true,
+          "questions": [
+            {
+              "main": "How do you know you're conscious?",
+              "context": "You can doubt everything except that you're experiencing doubt. Consciousness is the only thing you know directly.",
+              "followUp": "Could you be conscious but wrong about what consciousness is?"
+            }
+          ]
+        },
+        {
+          "depth": 2,
+          "title": "The Hard Problem",
+          "unlocked": false,
+          "questions": [
+            {
+              "main": "Why does it feel like something to be you?",
+              "context": "Computers process information without feeling. Why does your brain processing create inner experience?",
+              "followUp": "Is feeling separate from processing, or identical to it?"
+            },
+            {
+              "main": "Could a perfect copy of your brain be conscious?",
+              "context": "If we replicated every neuron, every connection, every chemical - would it experience being 'someone'?",
+              "followUp": "Would it be you, another you, or someone else entirely?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
