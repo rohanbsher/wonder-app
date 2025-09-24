@@ -177,6 +177,8 @@ Start your philosophical journey today. Every profound question brings you close
 
 ---
 
-**Live Demo**: [Coming Soon]
+**🌟 Live Demo**: https://wonder-app.vercel.app
+
+**📱 GitHub**: https://github.com/rohanbsher/wonder-app
 
 Built with ❤️ and philosophical curiosity
